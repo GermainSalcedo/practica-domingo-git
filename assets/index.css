@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+  background: linear-gradient(45deg, #caf0f8, #ade8f4, #90e0ef, #48cae4);
+}
+h1 {
+  color: #C71585;
+  font-family: verdana;
+  font-size: 80px;
+  text-align: center;
+}
+h2{
+color: #C71585;
+font-family: verdana;
+font-size: 28px;
+text-align: center;
+}
+p{
+color: #483D8B;
+font-family: verdana;
+font-size: 20px;
+text-align: center;
+padding-left: 11em;
+padding-right: 11em;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+  }
