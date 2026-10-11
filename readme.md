@@ -6,4 +6,4 @@ Curso de Introduccion a la Porgramacion
     3. Clase 3- Introdccion a Git - Markdown
 
 [MARKDOWN](https://www.markdownguide.org/)
-![puchero](/assets/images/puchero.jpg)
+[![puchero](/assets/images/puchero.jpg)](https://www.markdownguide.org/)
